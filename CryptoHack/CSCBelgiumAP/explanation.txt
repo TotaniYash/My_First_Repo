@@ -1,0 +1,6 @@
+This code implements a simple encryption server using a toy version of
+the DGHV (fully homomorphic encryption) scheme. 
+
+It allows a client to connect over TCP, interact with encryption and decryption features, and experiment with additive homomorphism.
+
+
